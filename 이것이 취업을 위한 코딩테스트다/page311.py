@@ -15,3 +15,10 @@ for i in range(N):
     if gr_len > group_num:
         group_num = gr_len
 print(group_num)
+
+#input ex)
+#5
+#2 3 1 2 2
+
+#output ex)
+#2
